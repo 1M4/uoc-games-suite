@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239294129763",
+    "firebase_url": "https://uoc-games-suite-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "uoc-games-suite",
+    "storage_bucket": "uoc-games-suite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239294129763:android:cac3c271e8982fe8e17a56",
+        "android_client_info": {
+          "package_name": "edu.uoc.android.uocgamessuite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239294129763-j0v1enbvu94da0bv7pbimqppk6tfm1ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcr0FRKcKuybgUlMhPJugQzCR_u6Nj3xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239294129763-j0v1enbvu94da0bv7pbimqppk6tfm1ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
